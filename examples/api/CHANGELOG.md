@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.37]
+
+### Dependencies
+
+- Upgraded to `updater-js@2.10.0`
+
 ## \[2.0.36]
 
 ### Dependencies
